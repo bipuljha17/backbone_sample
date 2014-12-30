@@ -1,0 +1,33 @@
+body {
+  padding-top: 0px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.flight-data-row {
+}
+.primary-flight-box {
+	color: #A8A8A1;
+}
+.secondary-flight-box {
+	color: #AA9A66;
+}
+#price-sort {
+	font-size: 18px;
+	cursor: pointer;
+	text-decoration: underline;
+	text-align: center;
+}
+#takeoff-sort {
+	font-size: 18px;
+	cursor: pointer;
+	text-decoration: underline;
+	text-align: center;
+}
+#landing-sort {
+	font-size: 18px;
+	cursor: pointer;
+	text-decoration: underline;
+	text-align: center;
+}
